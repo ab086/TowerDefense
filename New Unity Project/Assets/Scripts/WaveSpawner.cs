@@ -15,10 +15,7 @@ public class WaveSpawner : MonoBehaviour {
     private int waveIndex = 0;
 
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+	
 	
 	// Update is called once per frame
 	void FixedUpdate () {
